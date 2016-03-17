@@ -1,0 +1,6 @@
+{
+  "name": "One-dark-theme-for-brackets",
+  "tagline": "Inspired by One Dark Theme for Atom Editor.",
+  "body": "# New One Dark Theme for Brackets\r\n\r\nInspired by One Dark Theme for Atom Editor.\r\n\r\n## Installation\r\n\r\n* Open the Extension Manager in Brackets\r\n* Switch to \"Themes\" tab\r\n* Search for \"New One Dark Theme\"\r\n* Click \"Install\"\r\n\r\n## Javascript\r\n![JS Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/js_screenshot.png)\r\n## HTML\r\n![HTML Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/html_screenshot.png)\r\n## PHP\r\n![PHP Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/php_screenshot.png)\r\n## CSS\r\n![CSS Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/css_screenshot.png)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
