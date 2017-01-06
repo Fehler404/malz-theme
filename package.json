@@ -1,13 +1,13 @@
 {
-    "title": "New One Dark",
-    "name": "new-one-dark-theme",
-    "description": "Inspired by the One Dark Theme from Atom Editor",
-    "version": "1.2.1",
-    "author": "moritzw1 (https://github.com/moritzw1)",
-    "homepage": "https://github.com/moritzw1/one-dark-theme-for-brackets",
+    "title": "Malz",
+    "name": "malz-theme",
+    "description": "Fork from New One Dark",
+    "version": "1.0",
+    "author": "Jona (https://github.com/Fehler404)",
+    "homepage": "https://github.com/Fehler404/malz-theme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/moritzw1/one-dark-theme-for-brackets.git"
+        "url": "https://github.com/Fehler404/malz-theme.git"
     },
     "license": "MIT",
     "engines": {
